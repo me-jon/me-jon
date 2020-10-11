@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align="right" src="https://imgur.com/46Xmagk.png" width="128" />
 
-<!--
-**me-jon/me-jon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jon King
 
-Here are some ideas to get you started:
+[Email](mailto:kjon@hey.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Hi 👋
+
+I'm Jon King, bug finder and squasher. I currently spend my days helping keep [Opal](https://workwithopal.com) as stable as possible by hunting down and fixing bugs. 
+
+### Currently Working On..
+
+I am currently working on a way to consolidate our release documentation in a webpage accesible to everyone in our org. Learning new technologies such as Next.js and React. 
